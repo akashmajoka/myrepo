@@ -1,1 +1,5 @@
-this is second commit
+just use :
+
+git push -u origin master
+
+because every thing is already setup
